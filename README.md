@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+# Skill
+
+- StatefullWidget
+- Colum, Row(MainAxisAlignment, crossAxiAlignment)
+- SizeBox
+- Text, TextField, custome input
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
